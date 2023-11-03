@@ -1,0 +1,26 @@
+.tabla{
+    width:100%;
+    color:rgb(110, 24, 9);
+    border-collapse: collapse;
+    text-align: center;
+    font-size: 17px;
+}
+td,tr{
+    padding: 10px;
+}
+.barra td{
+    border:1px solid rgb(110, 24, 9);
+    color:white;
+    background-color: rgb(110, 24, 9);
+    margin: 30px;
+}
+.tabla_2{
+    width: 100%;
+    text-align: center;
+}
+.tabla_2 td{
+    background-color: rgb(218, 162, 6);
+}
+.barra_final{
+    background-color: rgb(218, 162, 6);
+}
